@@ -1,43 +1,52 @@
+
 # Project Setup
 
 ## 1. Clone the Repository
 
-First, clone the repository to your local machine:
+To get started, clone the repository to your local machine:
 
+```bash
 git clone https://github.com/GeraldAlanRaj/Team-Management-App.git
 cd Team-Management-App
+```
 
-##Install Dependencies
+## 2. Install Dependencies
 
-For Frontend
+### For Frontend
 
-Navigate to the frontend directory and install the required packages:
+Navigate to the `frontend` directory and install the required dependencies:
 
+```bash
 cd frontend
 npm install
+```
 
+### For Backend
 
-For Backend
+Navigate to the `backend` directory and install the required dependencies:
 
-Navigate to the backend directory and install the required packages:
-
+```bash
 cd backend
 npm install
+```
 
+## 3. Start the Project
 
-3. Start the Project
+### For Frontend
 
-For Frontend
+To start the frontend, use the following command:
 
-To start the frontend, run the following command:
-
+```bash
 cd frontend
 npm start
+```
 
-For Backend
+### For Backend
 
-To start the backend, run the following command:
+To start the backend, use the following command:
 
+```bash
 cd backend
 npm start
+```
 
