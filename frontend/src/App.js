@@ -10,7 +10,7 @@ const App = () => (
   <Router>
     <div>
       <nav className="navbar">
-        <h1 className="navbar-title">Team Member Directory</h1>
+        <h1 className="navbar-title">Code Fellas</h1>
         <div>
           <Link to="/" className="navbar-link">Home</Link>
           <Link to="/view" className="navbar-link">View Members</Link>
